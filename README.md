@@ -22,5 +22,7 @@ Youyun Zhang
 2. Decision Tree Learning
   
   • Runs in a C++ environment:
+  
   make
+  
   ./dt mushroom.txt
