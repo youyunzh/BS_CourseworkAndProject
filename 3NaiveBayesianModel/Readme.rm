@@ -1,0 +1,4 @@
+NAIVE BAYESIAN LEARNING
+YOUYUN ZHANG
+The goal of the program is to implement a naive Bayesian classifier that classifies images of handwritten digits. 
+This is useful in applications like reading zip codes for post offices or reading phone numbers or ids in surveys.
