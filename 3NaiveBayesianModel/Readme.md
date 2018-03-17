@@ -1,6 +1,3 @@
-NAIVE BAYESIAN LEARNING 
-YOUYUN ZHANG
-
 ![1](https://user-images.githubusercontent.com/21166767/37553361-f3b5cb08-2983-11e8-8eea-0269a4ef56a9.png)
 ![2](https://user-images.githubusercontent.com/21166767/37553363-f6a048c0-2983-11e8-8438-d073c7dcee46.png)
 ![3](https://user-images.githubusercontent.com/21166767/37553365-fde2acea-2983-11e8-83a3-9d80dd58b812.png)
