@@ -21,8 +21,14 @@ Youyun Zhang
 
 2. Decision Tree Learning
   
-  • Runs in a C++ environment:
+  • Runs in C++ environment:
   
   make
-  
   ./dt mushroom.txt
+
+5. A Naive Bayesian Model classifies handwritten digits
+  • Coursework in CS 360 Artificial Intelligence
+  • Runs in C++ enviornment:
+  
+  make
+  ./proj3
